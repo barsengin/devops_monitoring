@@ -1,4 +1,4 @@
-# devops_monitoring
+# Devops Monitoring
 
 This project is about devops monitoring systems. So, we use prometheus, grafana, node exporter and mysql exporter  docker installations.
 
